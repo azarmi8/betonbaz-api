@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+supabase
+groq
+pandas
+numpy
+python-multipart
+
